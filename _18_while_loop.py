@@ -100,3 +100,4 @@ print("while loop has ended")
 
 
 
+# no direct syntax of do while loop in python 
