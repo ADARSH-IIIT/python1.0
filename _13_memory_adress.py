@@ -23,3 +23,12 @@ all give false , except true
 print(bool("adarsh"))   #==========================>>> true
 print(bool("   "))   #==========================>>> true
 print(bool(""))   #==========================>>> false  
+
+
+
+
+
+"""
+addresss = id(name of var)
+
+"""
